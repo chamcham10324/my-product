@@ -8,19 +8,21 @@ HTMLとCSSの勉強のために、架空のカフェを宣伝する簡単なWeb�
 
 [リポジトリ](https://github.com/chamcham10324/icbcafe.github.io)
 
-![icbcafe-screenshot1](https://github.com/chamcham10324/my-product/blob/images/rolling_snowball_screenshot.jpg)
+![icbcafe-screenshot1](https://github.com/chamcham10324/my-product/blob/images/ICBCafe_screenshot1.jpg)
 
 ## 簡易タイピングゲーム
 JavaScriptの勉強のために、簡単なタイピングゲームを制作いたしました。
 [こちら](https://chamcham10324.github.io/typingTrialJS/)から遊ぶことが出来ます。
 
 [リポジトリ](https://github.com/chamcham10324/typingTrialJS)
+![typing-game-screenshot1](https://github.com/chamcham10324/my-product/blob/images/typingGame_screenshot1.jpg)
 
 ## 雪玉転がし
 WebGLの勉強のために、大学の授業で制作したものを少し改良しました。
 [こちら](https://chamcham10324.github.io/rolling-snowball/)から遊ぶことが出来ます。
 
 [リポジトリ](https://github.com/chamcham10324/rolling-snowball)
+![snowball-rolling-screenshot1](https://github.com/chamcham10324/my-product/blob/images/rolling_snowball_screenshot.jpg)
 
 ## 風は吹く
 オンラインでの共同開発経験を積みたかったため、UnityとC#を使い、複数人でゲームを制作しました。
