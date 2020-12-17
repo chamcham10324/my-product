@@ -15,6 +15,7 @@ JavaScriptの勉強のために、簡単なタイピングゲームを制作い�
 [こちら](https://chamcham10324.github.io/typingTrialJS/)から遊ぶことが出来ます。
 
 [リポジトリ](https://github.com/chamcham10324/typingTrialJS)
+
 ![typing-game-screenshot1](https://github.com/chamcham10324/my-product/blob/images/typingGame_screenshot1.jpg)
 
 ## 雪玉転がし
@@ -22,6 +23,7 @@ WebGLの勉強のために、大学の授業で制作したものを少し改良
 [こちら](https://chamcham10324.github.io/rolling-snowball/)から遊ぶことが出来ます。
 
 [リポジトリ](https://github.com/chamcham10324/rolling-snowball)
+
 ![snowball-rolling-screenshot1](https://github.com/chamcham10324/my-product/blob/images/rollingsnowball_screenshot1.jpg)
 
 ## 風は吹く
