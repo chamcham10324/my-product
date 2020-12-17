@@ -8,6 +8,8 @@ HTMLとCSSの勉強のために、架空のカフェを宣伝する簡単なWeb�
 
 [リポジトリ](https://github.com/chamcham10324/icbcafe.github.io)
 
+![icbcafe-screenshot1](https://github.com/chamcham10324/my-product/blob/images/rolling_snowball_screenshot.jpg)
+
 ## 簡易タイピングゲーム
 JavaScriptの勉強のために、簡単なタイピングゲームを制作いたしました。
 [こちら](https://chamcham10324.github.io/typingTrialJS/)から遊ぶことが出来ます。
