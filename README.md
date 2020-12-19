@@ -2,9 +2,8 @@
 
 こちらには私の今までの制作物についてまとめています。
 
-## icbcafeサイト
+## [icbcafeサイト](https://chamcham10324.github.io/icbcafe.github.io/)
 HTMLとCSSの勉強のために、架空のカフェを宣伝する簡単なWebサイトを制作いたしました。
-[こちら](https://chamcham10324.github.io/icbcafe.github.io/)からご覧ください。
 
 [リポジトリ](https://github.com/chamcham10324/icbcafe.github.io)
 
