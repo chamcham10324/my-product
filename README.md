@@ -9,17 +9,15 @@ HTMLとCSSの勉強のために、架空のカフェを宣伝する簡単なWeb�
 
 ![icbcafe-screenshot1](https://github.com/chamcham10324/my-product/blob/images/ICBCafe_screenshot1.jpg)
 
-## 簡易タイピングゲーム
+## [簡易タイピングゲーム](https://chamcham10324.github.io/typingTrialJS/)
 JavaScriptの勉強のために、簡単なタイピングゲームを制作いたしました。
-[こちら](https://chamcham10324.github.io/typingTrialJS/)から遊ぶことが出来ます。
 
 [リポジトリ](https://github.com/chamcham10324/typingTrialJS)
 
 ![typing-game-screenshot1](https://github.com/chamcham10324/my-product/blob/images/typingGame_screenshot1.jpg)
 
-## 雪玉転がし
+## 雪玉転がし](https://chamcham10324.github.io/rolling-snowball/)
 WebGLの勉強のために、大学の授業で制作したものを少し改良しました。
-[こちら](https://chamcham10324.github.io/rolling-snowball/)から遊ぶことが出来ます。
 
 [リポジトリ](https://github.com/chamcham10324/rolling-snowball)
 
